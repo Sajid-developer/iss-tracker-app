@@ -1,2 +1,2 @@
-# ISS tracker app
+# ISS Tracker App
 Iss position tracker application.
